@@ -1,0 +1,40 @@
+body {
+	/*background: dark;*/
+	margin-left: 30px;
+	margin-right: 60px;
+}
+
+header{
+	margin-top: 40px;
+}
+
+h1 {
+	color: white;
+	font-family: inherit;
+}
+
+h2{
+	color: white;
+	font-family: serif;
+}
+
+p{
+	font-size: 18px;
+}
+
+footer{
+	margin-bottom: 40px;
+}
+
+.img-std{
+	margin-bottom: 20px;
+	width: 900px;
+}
+
+.img-sml{
+	width: 100px;
+}
+
+.logo{
+	width: 30px;
+}
